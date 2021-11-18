@@ -7,4 +7,4 @@ export default {
   },
 };
 
-export const story1 = () => html` <my-counter></my-counter> `;
+export const story1 = () => html` <fp-badge>Hello</fp-badge> `;
